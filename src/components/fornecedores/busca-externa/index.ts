@@ -1,0 +1,2 @@
+
+export { ResultadosBuscaExterna } from './ResultadosBuscaExterna';
